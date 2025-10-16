@@ -91,7 +91,7 @@ We artificially introduce **Missing At Random (MAR)** values (5–10%) in select
 
 | File | Description |
 |------|--------------|
-| `DA5401_A6_imputation_random_forest.ipynb` | Main Jupyter Notebook containing code, visualizations, and analysis. |
+| `DA5401_A6_imputation.ipynb` | Main Jupyter Notebook containing code, visualizations, and analysis. |
 
 ---
 
